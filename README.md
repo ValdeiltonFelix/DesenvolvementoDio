@@ -2,6 +2,6 @@
  
  Desenvolvendo habilidades na Digital inovation
  
- ## Boot Camp spreed  
+ ## Boot Camp Spread 
  
 - [x] Git/Hub 
